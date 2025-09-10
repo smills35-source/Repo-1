@@ -1,2 +1,2 @@
 # Repo-1
-The first repository of the semester.
+Hello everyone, this is my first repository of the semester.
